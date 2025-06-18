@@ -2,6 +2,8 @@
 
 A Python-based tool that scrapes and analyzes comments from TikTok videos. This tool allows you to fetch comments, save them in multiple formats, and perform basic analysis on the comment data.
 
+for scrapes in Twitter or X can access in here [Helmi Satria Tweet Harvest](https://helmisatria.com/blog/crawl-data-twitter-menggunakan-tweet-harvest/)
+
 ## Features
 
 - Scrape comments from any TikTok video using its video ID
